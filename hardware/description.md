@@ -1,3 +1,4 @@
+Note: files can be viewed on KiCad or by downloading the PDF versions. 
 ## PCB Design
 Designed entirely using KiCad.
 The design process included:
