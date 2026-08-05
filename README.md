@@ -36,14 +36,14 @@ Final custom KiCad PCB, after making improvements from the perfboard prototype.
 - Closed-loop speed control using encoder feedback
 
 ## Repository Structure
-
+Note that there is a functionality video available under images and BOM
 ```
 ESP32-PWM-Motor-Controller/
 
 firmware/
 hardware/
 kicad/
-images/
+images and BOM/
 docs/
 README.md
 ```
